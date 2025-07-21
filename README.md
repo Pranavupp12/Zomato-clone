@@ -34,7 +34,7 @@
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-org/tomato.git
+   git clone https://github.com/your-org/tomato.git,
    cd tomato
 
 2.Install frontend dependencies:
